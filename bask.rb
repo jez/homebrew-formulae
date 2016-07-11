@@ -6,6 +6,7 @@ class Bask < Formula
 
   def install
     prefix.install "src"
+    prefix.install "completion"
     bin.install "bin/bask"
   end
 
