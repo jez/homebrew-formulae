@@ -2,7 +2,7 @@ class Bask < Formula
   desc "Task runner for bash"
   homepage "https://github.com/jez/bask"
   url "https://github.com/jez/bask/archive/0.9.0.tar.gz"
-  sha256 "e6833e120ac1b6ba836f6b3270839fe7bd0a515d7dc733b10cf34f5a56de29fb"
+  sha256 "6eb88142befa31a7afdc2eceed71bbbbb49f811d707a4494f7c45ae83335c7f9"
 
   def install
     prefix.install "src"
