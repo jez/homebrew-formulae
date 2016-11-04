@@ -14,6 +14,8 @@ Then, install software like normal:
 
 ```
 brew install bask
+
+brew install pandoc-sidenote
 ```
 
 ## License
