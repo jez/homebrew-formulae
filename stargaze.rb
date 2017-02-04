@@ -1,8 +1,8 @@
 class Stargaze < Formula
   desc "Gaze at GitHub repos you've starred"
   homepage "https://github.com/jez/stargaze"
-  url "https://github.com/jez/stargaze/archive/0.9.0.tar.gz"
-  sha256 "054f07aa819a03ee30dbf881dd7d4b3f1d649886f09c388ba94b84e4f762b015"
+  url "https://github.com/jez/stargaze/archive/0.9.1.tar.gz"
+  sha256 "f00bdaa48e831257af38a081b876101170db9ac7d2000e7aa8e13c5f4ebf0f9d"
 
   def install
     bin.install "stargaze"
