@@ -1,8 +1,8 @@
 class PandocSidenote < Formula
   desc "Convert Pandoc Markdown-style footnotes into sidenotes"
   homepage "https://github.com/jez/pandoc-sidenote"
-  url "https://github.com/jez/pandoc-sidenote/releases/download/0.8.1/pandoc-sidenote-0.8.1.zip"
-  sha256 "63c867f56e999ac25b69cdc44ece5a5a452395ad73b29a756dd68c53ea968be0"
+  url "https://github.com/jez/pandoc-sidenote/releases/download/0.19.0/pandoc-sidenote-0.19.0.zip"
+  sha256 "7e0152a79b626793f88a2b2de25d94019b942f3e4c299fa99efdfcfb3b86fce1"
 
   # TODO(jez): Automate installing from source with Haskell Stack environment
 
