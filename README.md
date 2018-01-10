@@ -18,6 +18,8 @@ brew install bask
 brew install pandoc-sidenote
 
 brew install stargaze
+
+brew install git-heatmap
 ```
 
 ## License
