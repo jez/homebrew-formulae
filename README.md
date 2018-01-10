@@ -20,6 +20,8 @@ brew install pandoc-sidenote
 brew install stargaze
 
 brew install git-heatmap
+
+brew install git-madge
 ```
 
 ## License
