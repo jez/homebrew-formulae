@@ -1,8 +1,8 @@
 class GitHeatmap < Formula
   desc "Heatmap of oft-edited files"
   homepage "https://github.com/jez/git-heatmap"
-  url "https://github.com/jez/git-heatmap/archive/0.9.0.zip"
-  sha256 "e5db8694be9b778ef0f9f03694c199aaf5e77350fa4a3ee45a88d5593f1a3345"
+  url "https://github.com/jez/git-heatmap/archive/0.10.0.zip"
+  sha256 "bc43d48ff8d1d4c8c119336ff1d3dc582719ee9f70c1c0f8730567449d9a5096"
 
   def install
     bin.install "git-heatmap"
