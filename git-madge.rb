@@ -1,8 +1,8 @@
 class GitMadge < Formula
   desc "Git-aware madge wrapper"
   homepage "https://github.com/jez/git-madge"
-  url "https://github.com/jez/git-madge/archive/0.11.2.zip"
-  sha256 "bd0672f973d03ac019e0dc194202711f42eb452cbce99e247b198373a761596a"
+  url "https://github.com/jez/git-madge/archive/0.11.3.zip"
+  sha256 "9dfe6c48cb7a9730d0add6dfea066b9523d2693d344e04cfc686074def16061b"
 
   depends_on "jq"
 
