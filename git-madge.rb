@@ -1,13 +1,14 @@
 class GitMadge < Formula
   desc "Git-aware madge wrapper"
   homepage "https://github.com/jez/git-madge"
-  url "https://github.com/jez/git-madge/archive/0.11.0.zip"
-  sha256 "b99ea965186a4486574378b72a061b9ce25c6d5ca03a1af82fc6ef89b718dbc3"
+  url "https://github.com/jez/git-madge/archive/0.11.1.zip"
+  sha256 "adbb03cf68d1b77b1cdb100aa04f90ccbf9bcbdcc7a78fdc5fabfff894769521"
 
   depends_on "jq"
 
   def install
     bin.install "git-madge"
+    prefix.install "styles"
   end
 
   def caveats
