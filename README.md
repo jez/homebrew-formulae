@@ -22,6 +22,8 @@ brew install stargaze
 brew install git-heatmap
 
 brew install git-madge
+
+brew install viewjrnl
 ```
 
 ## License
