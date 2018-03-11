@@ -24,6 +24,8 @@ brew install git-heatmap
 brew install git-madge
 
 brew install viewjrnl
+
+brew install calz
 ```
 
 ## License
