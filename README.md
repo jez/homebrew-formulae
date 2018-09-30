@@ -26,6 +26,8 @@ brew install git-madge
 brew install viewjrnl
 
 brew install calz
+
+brew install symbol-new
 ```
 
 ## License
