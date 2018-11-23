@@ -6,8 +6,7 @@ class SymbolNew < Formula
   head "https://github.com/jez/symbol.git"
 
   def install
-    bin.install "symbol-new"
-    share.install "scaffold"
+    system "make", "install", "prefix=#{prefix}"
   end
 
   test do
