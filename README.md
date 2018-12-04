@@ -28,6 +28,8 @@ brew install viewjrnl
 brew install calz
 
 brew install symbol-new
+
+brew install multi-grep
 ```
 
 ## License
