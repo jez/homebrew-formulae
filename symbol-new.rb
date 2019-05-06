@@ -1,8 +1,8 @@
 class SymbolNew < Formula
   desc "Build tool for Standard ML"
   homepage "https://github.com/jez/symbol"
-  url "https://github.com/jez/symbol/archive/v0.10.2.zip"
-  sha256 "63916903be8e9bc883471c7bbc4238e67a20134691f394dc1450b6e8c8d44d5f"
+  url "https://github.com/jez/symbol/archive/v0.10.4.zip"
+  sha256 "8cc1dd78f8a51de232c79df9ac06ae373c5cc2c40de66eafbee81210030e581d"
   head "https://github.com/jez/symbol.git"
 
   def install
